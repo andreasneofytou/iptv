@@ -3,10 +3,12 @@
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (720p) [Not 24/7]
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlphaTV.cy",Alpha CY TV
+#EXTINF:-1 tvg-id="AlphaTV.cy",Alpha CY TV tvg-logo="https://i.imgur.com/No45vwk.png"
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCA4OjA1OjMzIFBNJmhhc2hfdmFsdWU9bEI1Q3krUzZrcHNzVjJ1Qm82T2VMQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 tvg-id="ANT1.gr",ANT1 (1080p) [Geo-blocked]
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-logo="https://i.imgur.com/2KAObBt.png",ANT1 Cyprus (1080p)
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="CenterTV.gr",Center TV (1080p) [Not 24/7]
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 tvg-id="ERT1.gr",ERT1
@@ -36,16 +38,18 @@ http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 tvg-id="StarKentrikisElladas.gr",Star Kentrikis Elladas (720p) [Not 24/7]
-#EXTINF:-1 tvg-id="Rik1", ΡΙΚ 1
+#EXTINF:-1 tvg-id="Rik1" tvg-logo="https://i.imgur.com/31eq4lS.png", ΡΙΚ 1
 https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 tvg-id="Rik2", ΡΙΚ 2
+#EXTINF:-1 tvg-id="Rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png", ΡΙΚ 2
 https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 tvg-id="RikHD", ΡΙΚ HD
+#EXTINF:-1 tvg-id="RikHD" tvg-logo="https://i.imgur.com/xQnHaPy.png", ΡΙΚ HD
 https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-id="RikS", ΡΙΚ S
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="RIKSat.cy",ΡΙΚ Sat (720p) [Not 24/7]
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png",Sigma TV
+https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ERTSports1.gr",ERT Sports 1 (1080p)
 http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
 #EXTINF:-1 tvg-id="ERTNews.gr",ERT News (1080p)

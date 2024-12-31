@@ -3,7 +3,7 @@
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaTV.gr",Alpha TV (720p) [Not 24/7]
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlphaTV.cy",Alpha CY TV tvg-logo="https://i.imgur.com/No45vwk.png"
+#EXTINF:-1 tvg-id="AlphaTV.cy" tvg-logo="https://i.imgur.com/No45vwk.png",Alpha CY TV 
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCA4OjA1OjMzIFBNJmhhc2hfdmFsdWU9bEI1Q3krUzZrcHNzVjJ1Qm82T2VMQT09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 tvg-id="ANT1.gr",ANT1 (1080p) [Geo-blocked]
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8

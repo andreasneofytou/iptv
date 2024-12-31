@@ -27,6 +27,8 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/maina
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr",ERT World (720p)
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
+#EXTINF:-1 tvg-id="OmegaTvCy",Omega TV
+https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMzEvMjAyNCA4OjQ0OjE2IFBNJmhhc2hfdmFsdWU9MjdsQVE1YXN2TUNUdnlOaWY2bHl6dz09JnZhbGlkbWludXRlcz02NjA=
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
 http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)

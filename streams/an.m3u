@@ -7,39 +7,18 @@ https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy" tvg-logo="https://i.imgur.com/2KAObBt.png",ANT1 Cyprus (1080p)
 https://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="CenterTV.gr",Center TV (1080p) [Not 24/7]
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
-#EXTINF:-1 tvg-id="ERT1.gr",ERT1
-http://88.99.254.101/ert1/mono.m3u8
-#EXTINF:-1 tvg-id="ERT2.gr",ERT2
-http://88.99.254.101/ert2/mono.m3u8
-#EXTINF:-1 tvg-id="ERT3.gr",ERT3
-http://88.99.254.101/ert3/mono.m3u8
-#EXTINF:-1 tvg-id="ERTNews.gr",ERT News (1080p)
-https://cbd537474fbad4634b64787657ff6456.msvdn.net/news/ert_news_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ERTSports1.gr",ERT Sports 1 (1080p) [Geo-blocked]
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/playlist.m3u8
-#EXTINF:-1 tvg-id="ERTSports2.gr",ERT Sports 2 (1080p) [Geo-blocked]
-http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports2/ert_sports2_main/mainabr/playlist.m3u8
 #EXTINF:-1 tvg-id="ERTWorld.gr",ERT World (1080p)
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="ERTWorld.gr",ERT World (720p)
-https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 tvg-id="Mega TV",Mega TV
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 tvg-id="OmegaTvCy",Omega TV
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
 #EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
-http://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="SkaiTV.gr",Skai TV (720p)
 http://skai-live.siliconweb.com/media/cambria4/index.m3u8
-#EXTINF:-1 tvg-id="StarChannel.gr",Star Channel (720p)
-http://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 tvg-id="StarChannel.gr",STAR HD [Non geo blocked]
 http://livestar.siliconweb.com/starvod/star4/star4.m3u8
 #EXTINF:-1 tvg-id="StarChannelInternational.gr",STAR International (720p)
 https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
-#EXTINF:-1 tvg-id="StarKentrikisElladas.gr",Star Kentrikis Elladas (720p) [Not 24/7]
 #EXTINF:-1 tvg-id="Rik1" tvg-logo="https://i.imgur.com/31eq4lS.png", ΡΙΚ 1
 https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
 #EXTINF:-1 tvg-id="Rik2" tvg-logo="https://i.imgur.com/EZUDmtI.png", ΡΙΚ 2
@@ -48,8 +27,6 @@ https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
 https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 tvg-id="RikS", ΡΙΚ S
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 tvg-id="RIKSat.cy",ΡΙΚ Sat (720p) [Not 24/7]
-http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://i.imgur.com/DXKx102.png",Sigma TV
 https://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 tvg-id="ERTSports1.gr",ERT Sports 1 (1080p)

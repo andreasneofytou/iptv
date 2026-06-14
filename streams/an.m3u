@@ -1,2 +1,7 @@
-#EXTINF:-1 tvg-id="SigmaTV.cy@SD",Sigma TV (576p) [Not 24/7]
+#EXTM3U
+#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://www.sigmatv.com/images/logo.png",Sigma TV HD
+#EXTVLCOPT:http-referrer=https://www.sigmatv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:m3u8-bandwidth=4000000
+#EXTVLCOPT:preferred-resolution=1080
 https://sl2.sigmatv.com/hls/live.m3u8

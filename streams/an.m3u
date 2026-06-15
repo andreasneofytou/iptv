@@ -1,11 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SigmaTV.cy" tvg-logo="https://www.sigmatv.com/images/logo.png" group-title="Cyprus",Sigma TV HD
-#EXTVLCOPT:http-referrer=https://www.sigmatv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-#EXTVLCOPT:m3u8-bandwidth=4000000
-#EXTVLCOPT:preferred-resolution=1080
-https://sl2.sigmatv.com/hls/live.m3u8
-
 #EXTINF:-1 tvg-id="ert1" tvg-logo="https://assets.greektv.app/logos/ert1.png" group-title="Greece",ERT 1
 #EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ert1/index.m3u8
@@ -60,6 +53,9 @@ http://192.168.10.20:4018/ertsports5/index.m3u8
 #EXTINF:-1 tvg-id="ertworld" tvg-logo="https://assets.greektv.app/logos/ertworld.png" group-title="Greece",ERT Cosmos
 #EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertworld/index.m3u8
+#EXTINF:-1 tvg-id="sigma" tvg-logo="https://assets.greektv.app/logos/sigma.png" group-title="Cyprus",Sigma TV
+#EXTVLCOPT:network-caching=5000
+http://192.168.10.20:4018/sigma/index.m3u8
 #EXTINF:-1 tvg-id="rik1" tvg-logo="https://assets.greektv.app/logos/rik1.png" group-title="Cyprus",RIK 1
 #EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/rik1/index.m3u8

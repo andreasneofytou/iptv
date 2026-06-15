@@ -6,7 +6,13 @@
 #EXTVLCOPT:preferred-resolution=1080
 https://sl2.sigmatv.com/hls/live.m3u8
 
-#EXTINF:-1 tvg-id="ERTSports1.gr@HD",ERT Sports 1 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
-#EXTINF:-1 tvg-id="ERTSports2.gr@HD",ERT Sports 2 (1080p)
-http://hbbtvapp.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports1.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports.png",ERT Sports 1
+https://cdn1.smart-tv-data.com/vid/ertsports/mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports2.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports2.png",ERT Sports 2
+https://cdn1.smart-tv-data.com/vid/ertplay2/mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports3.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports3.png",ERT Sports 3
+https://cdn1.smart-tv-data.com/vid/ertplay3/mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports4.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports4.png",ERT Sports 4
+https://cdn1.smart-tv-data.com/vid/ertnews2/mpeg.2ts
+#EXTINF:-1 tvg-id="ERTSports5.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports5.png",ERT Sports 5
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports5/default/index.mpd

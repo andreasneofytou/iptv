@@ -7,20 +7,29 @@
 https://sl2.sigmatv.com/hls/live.m3u8
 
 #EXTINF:-1 tvg-id="ERT1.gr@HD" tvg-logo="https://assets.greektv.app/logos/ert1.png",ERT 1
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ert1/index.m3u8
 #EXTINF:-1 tvg-id="ERT2.gr@HD" tvg-logo="https://assets.greektv.app/logos/ert2.png",ERT 2 SPORT
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ert2/index.m3u8
 #EXTINF:-1 tvg-id="ERT3.gr@HD" tvg-logo="https://assets.greektv.app/logos/ert3.png",ERT 3
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ert3/index.m3u8
 #EXTINF:-1 tvg-id="ERTNews.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertnews.png",ERT News
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertnews/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports1.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports.png",ERT Sports 1
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertsports/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports2.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports2.png",ERT Sports 2
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertsports2/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports3.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports3.png",ERT Sports 3
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertsports3/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports4.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports4.png",ERT Sports 4
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertsports4/index.m3u8
 #EXTINF:-1 tvg-id="ERTSports5.gr@HD" tvg-logo="https://assets.greektv.app/logos/ertsports5.png",ERT Sports 5
+#EXTVLCOPT:network-caching=5000
 http://192.168.10.20:4018/ertsports5/index.m3u8
